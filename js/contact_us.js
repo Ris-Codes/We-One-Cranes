@@ -29,7 +29,7 @@ function whatsapp() {
         var userSubject = document.getElementById("userSubject").value;
         var userMessage = document.getElementById("userMessage").value;
 
-        var accessURL = "https://wa.me/919947886837?text="
+        var accessURL = "https://wa.me/918089694305?text="
         +"*Name :* "+userName+"%0a"
         +"*Email :* "+userEmail+"%0a"
         +"*Subject :* "+userSubject+"%0a"
